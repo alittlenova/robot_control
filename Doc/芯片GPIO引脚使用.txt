@@ -1,0 +1,5 @@
+87脚:	PH10    使用:PWM1输出       复用:Tim5 CH1
+88脚:	PH11    使用:PWM2输出       复用:Tim5 CH2
+89脚:	PH12    使用:PWM3输出       复用:Tim5 CH3
+120脚:	PA9      使用:USART输出       复用:USART1TX
+121脚:	PA10    使用:USART输入       复用:USART1RX
